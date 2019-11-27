@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  helm-nfs:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-27T13:31:40.948995891-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 57b8fadfc3275ff0e713624575360f2a45dc8d97b8196d4c10bb1f693ce7cd00
+    name: helm-nfs
+    urls:
+    - https://luizbob.github.io/test-nfs-helm/helm-nfs-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-11-27T13:31:40.94858817-03:00"
